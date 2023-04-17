@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 2rem;
+  /* background-color: aqua; */
+}
+.title {
+  padding: 8px;
+}
+.image {
+  height: 10%;
+  width: 10%;
+}
